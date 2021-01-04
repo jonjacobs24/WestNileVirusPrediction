@@ -29,7 +29,7 @@ Feature analysis with the SHAP library largely confirms existing knowledge about
 │
 ├── Old Notebooks                        <- notebooks of a priliminary analysis
 │
-├── WNVPrediction                        <- working directory of pyhton scripts for model delpoyment
+├── https://github.com/jonjacobs24/wnv-prediction      <- model delpoyment repository
 
 
 
